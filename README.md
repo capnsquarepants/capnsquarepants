@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I like to imagine myself as someone with a bajillion ideas but with not a lot of time.
 <!--
 **capnsquarepants/capnsquarepants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
